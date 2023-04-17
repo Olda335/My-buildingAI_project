@@ -9,33 +9,23 @@ Create system which would diplay recommendations tailored to each runners based 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+As an active runner, I often deal with inventing new running routes. Alternatively, I am looking for routes in places where I am temporarily on vacation or on a business trip.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The app would anonymously record the routes of all runners at different locations, including the runner's speed, heart rate and performance parameters. The user would enter the requirements for the route: length, profile, elevation, surface, distance from the specified location and the application would recommend suitable routes.
+The application would also make a comparison with my current performance and estimate the time needed to run the selected routes in several training modes: rest, maintenance, improvement.
+The application could then export the selected route in gpx format.
 
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data come from different sport app as Strava, where users give their consent to use their records for these purposes. 
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+There must be enough runners willing to share their routes
 
 ## What next?
 
