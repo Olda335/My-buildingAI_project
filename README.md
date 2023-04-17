@@ -1,4 +1,4 @@
-<# Create recommendations for running routes
+# Create recommendations for running routes
 
 Final project for the Building AI course
 
